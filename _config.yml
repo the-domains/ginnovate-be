@@ -1,0 +1,28 @@
+name: ginnovate.be
+favicon: null
+layout_spectrum: 0.6934402412734926
+typography_spectrum: 0.18714726786129177
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.6890809312462807
+  lightness: 0.45853162929415703
+  saturation: 0.8489055321551859
+  rhythmicContrast: 0.9352336244191974
+purpose: []

@@ -1,6 +1,6 @@
 name: Bioresonantie
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.57184
 typography_spectrum: 0.90086
 title: 'Het Bioresonantie platform voor de Benelux '
 cta:
@@ -22,7 +22,7 @@ color:
     - '#869995'
     - '#fefdf9'
     - '#0afdf9'
-  brandStrength: 0.75
+  brandStrength: 0.6875
   lightness: 0.625
   saturation: 0.5625
   rhythmicContrast: 0.5

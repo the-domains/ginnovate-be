@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Het Bioresonantie platform voor de Benelux ]]></title>
-        <description><![CDATA[Het Bioresonantie platform voor de Benelux ]]></description>
-        <link>http://www.bioresonantie.eu/</link>
+        <title><![CDATA[Your healthy food place ]]></title>
+        <description><![CDATA[Your healthy food place ]]></description>
+        <link>http://www.nelicieuse.eu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 15:35:58 GMT</lastBuildDate>
-        <atom:link href="http://www.bioresonantie.eu/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 25 Feb 2016 15:56:59 GMT</lastBuildDate>
+        <atom:link href="http://www.nelicieuse.eu/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/59b0893e-1a85-4087-9ba1-508afe901005.jpg">]]></description>
-            <link>http://www.bioresonantie.eu/858d5cdf-e82f-4ff7-b6cb-0d0ea65b5e9c/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b689a714-7af4-4adc-b13b-fa33601c8994.png">]]></description>
+            <link>http://www.nelicieuse.eu/858d5cdf-e82f-4ff7-b6cb-0d0ea65b5e9c/index.html</link>
             <guid isPermaLink="false">858d5cdf-e82f-4ff7-b6cb-0d0ea65b5e9c</guid>
-            <pubDate>Thu, 25 Feb 2016 15:35:58 GMT</pubDate>
+            <pubDate>Thu, 25 Feb 2016 15:56:58 GMT</pubDate>
         </item>
     </channel>
 </rss>

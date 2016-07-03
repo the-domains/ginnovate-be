@@ -1,29 +1,41 @@
-name: 'Nelicieuse '
-favicon: null
-layout_spectrum: 0.8865
-typography_spectrum: 0.90086
 title: 'Your healthy food place '
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.6290323
+  brandStrength: 0.9375
+  lightness: 0.6899642
+  brandColors:
+    - '#FDFDFD'
+    - '#0D0915'
+    - '#9BB6D5'
+    - '#C0A074'
+    - '#3A6E9D'
+  rhythmicContrast: 0.3405018
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: 'Nelicieuse '
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#7c4f30'
-    - '#472d1a'
-    - '#dbcdbf'
-    - '#b1a49b'
-  brandStrength: 0.9375
-  lightness: 0.625
-  saturation: 0.5625
-  rhythmicContrast: 0.5
-purpose: []
+typography_spectrum: 0.90086
+layout_spectrum: 0.8853046
